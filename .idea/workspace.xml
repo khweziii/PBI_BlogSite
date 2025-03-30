@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e05420a-d0e7-4539-8003-ddc976a3fc0b" name="Changes" comment="Added an additional section the blog site (the loyalty programme dashboard)" />
+    <list default="true" id="1e05420a-d0e7-4539-8003-ddc976a3fc0b" name="Changes" comment="Changing the heading from &quot;Loyalty&quot; to &quot;Rewards&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742114446557</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Changing the heading from &quot;Loyalty&quot; to &quot;Rewards&quot;">
+      <option name="closed" value="true" />
+      <created>1742128494991</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742128494991</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +131,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Changed the powerbi embedded report link, in order to enable everyone on the internet to view the report" />
     <MESSAGE value="Added an additional section the blog site (the loyalty programme dashboard)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added an additional section the blog site (the loyalty programme dashboard)" />
+    <MESSAGE value="Changing the heading from &quot;Loyalty&quot; to &quot;Rewards&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changing the heading from &quot;Loyalty&quot; to &quot;Rewards&quot;" />
   </component>
 </project>
