@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e05420a-d0e7-4539-8003-ddc976a3fc0b" name="Changes" comment="Adding the UFC 305 Main Event content to the PBI Blog Site" />
+    <list default="true" id="1e05420a-d0e7-4539-8003-ddc976a3fc0b" name="Changes" comment="Adding the SMM Enterprise dashboard to blog site" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743354033984</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Adding the SMM Enterprise dashboard to blog site">
+      <option name="closed" value="true" />
+      <created>1748708271067</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1748708271067</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +149,7 @@
     <MESSAGE value="Added an additional section the blog site (the loyalty programme dashboard)" />
     <MESSAGE value="Changing the heading from &quot;Loyalty&quot; to &quot;Rewards&quot;" />
     <MESSAGE value="Adding the UFC 305 Main Event content to the PBI Blog Site" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding the UFC 305 Main Event content to the PBI Blog Site" />
+    <MESSAGE value="Adding the SMM Enterprise dashboard to blog site" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding the SMM Enterprise dashboard to blog site" />
   </component>
 </project>
